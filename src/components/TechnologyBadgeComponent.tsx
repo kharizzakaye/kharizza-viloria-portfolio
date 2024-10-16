@@ -1,7 +1,7 @@
 import React from 'react'
 import Badge from 'react-bootstrap/Badge';
 
-const TechnologyBadge = (technologiesList: any) => {
+const TechnologyBadgeComponent = (technologiesList: any) => {
     return (
         <>
             <section className="technology-badge-section">
@@ -13,4 +13,4 @@ const TechnologyBadge = (technologiesList: any) => {
     )
 }
 
-export default TechnologyBadge
+export default TechnologyBadgeComponent

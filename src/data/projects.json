@@ -21,6 +21,56 @@
                 "Responsive",
                 "Animation",
                 "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-4.png",
+                    "altText": "Screenshot for Fizzi 4"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-5.png",
+                    "altText": "Screenshot for Fizzi 5"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-6.png",
+                    "altText": "Screenshot for Fizzi 6"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-7.png",
+                    "altText": "Screenshot for Fizzi 7"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-8.png",
+                    "altText": "Screenshot for Fizzi 8"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-9.png",
+                    "altText": "Screenshot for Fizzi 9"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-10.png",
+                    "altText": "Screenshot for Fizzi 10"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-11.png",
+                    "altText": "Screenshot for Fizzi 11"
+                }
             ]
         },
         {
