@@ -12,42 +12,42 @@ function ProjectsComponent() {
         {
             title: "Fizzi Soda",
             imageLink: require("../assets/images/project-icons/fizzi-soda.png"),
-            projectLink: "/fizziSoda",
+            projectLink: "/fizzi-soda",
         },
         {
             title: "Desserts Shop",
             imageLink: require("../assets/images/project-icons/dessert-shop.png"),
-            projectLink: "/dessertsShop",
+            projectLink: "/desserts-shop",
         },
         {
             title: "Where in the world?",
             imageLink: require("../assets/images/project-icons/world.png"),
-            projectLink: "/whereInTheWorld",
+            projectLink: "/where-in-the-world",
         },
         {
             title: "Jigsaw Puzzle Inventory",
             imageLink: require("../assets/images/project-icons/puzzle-inventory.png"),
-            projectLink: "/jigsawInventory",
+            projectLink: "/jigsaw-inventory",
         },
         {
             title: "Design Portfolio",
             imageLink: require("../assets/images/project-icons/design-portfolio.png"),
-            projectLink: "/designPortfolio",
+            projectLink: "/design-portfolio",
         },
         {
             title: "User Interface Components",
             imageLink: require("../assets/images/project-icons/components.png"),
-            projectLink: "/uiComponents",
+            projectLink: "/ui-components",
         },
         {
             title: "Pet Dex",
             imageLink: require("../assets/images/project-icons/pet-dex.png"),
-            projectLink: "/petDex",
+            projectLink: "/pet-dex",
         },
         {
             title: "Graphic Design",
             imageLink: require("../assets/images/project-icons/graphic-design.png"),
-            projectLink: "/graphicDesign",
+            projectLink: "/graphic-design",
         },
     ];
 
