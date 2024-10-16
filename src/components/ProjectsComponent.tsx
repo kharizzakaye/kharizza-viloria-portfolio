@@ -7,7 +7,7 @@ import "../styles/hover.css";
 import projectsData from "../data/projects.json"
 
 
-function ProjectsComponent() {
+const ProjectsComponent = () => {
 
     const projectsList = projectsData.data.map((item: any) => ({
         title: item.title,

@@ -4,7 +4,24 @@
             "title": "Fizzi Soda",
             "imageLink": "../assets/images/project-icons/fizzi-soda.png",
             "projectLink": "/fizzi-soda",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ]
         },
         {
             "title": "Desserts Shop",
