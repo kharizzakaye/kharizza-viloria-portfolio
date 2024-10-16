@@ -45,23 +45,6 @@ body
 
 .navbar {
     background-color: #03071E;
-    width: 100vw;
-}
-
-.navbar-link {
-    color: #FFFFFF;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.navbar-link:hover {
-    color: #FFFFFF;
-    text-decoration: none;
-    font-weight: 500;
-}
-
-.navbar-button {
-    font-weight: 500;
 }
 
 
