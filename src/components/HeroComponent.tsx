@@ -1,6 +1,7 @@
 import React from 'react'
 import "../styles/main.css";
 import "../styles/hover.css";
+import 'animate.css';
 
 const HeroComponent = () => {
   return (
