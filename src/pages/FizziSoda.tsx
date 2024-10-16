@@ -1,10 +1,17 @@
 import React from 'react'
+import NavbarComponent from '../components/NavbarComponent'
 
 type Props = {}
 
 const FizziSoda = (props: Props) => {
   return (
-    <div>FizziSoda</div>
+    <>
+      <NavbarComponent />
+
+      <main>
+        
+      </main>
+    </>
   )
 }
 

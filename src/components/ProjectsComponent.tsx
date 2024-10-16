@@ -4,53 +4,16 @@ import { Row, Col, Container } from 'react-bootstrap';
 
 import "../styles/main.css";
 import "../styles/hover.css";
+import projectsData from "../data/projects.json"
 
 
 function ProjectsComponent() {
 
-    const projectsList = [
-        {
-            title: "Fizzi Soda",
-            imageLink: require("../assets/images/project-icons/fizzi-soda.png"),
-            projectLink: "/fizzi-soda",
-        },
-        {
-            title: "Desserts Shop",
-            imageLink: require("../assets/images/project-icons/dessert-shop.png"),
-            projectLink: "/desserts-shop",
-        },
-        {
-            title: "Where in the world?",
-            imageLink: require("../assets/images/project-icons/world.png"),
-            projectLink: "/where-in-the-world",
-        },
-        {
-            title: "Jigsaw Puzzle Inventory",
-            imageLink: require("../assets/images/project-icons/puzzle-inventory.png"),
-            projectLink: "/jigsaw-inventory",
-        },
-        {
-            title: "Design Portfolio",
-            imageLink: require("../assets/images/project-icons/design-portfolio.png"),
-            projectLink: "/design-portfolio",
-        },
-        {
-            title: "User Interface Components",
-            imageLink: require("../assets/images/project-icons/components.png"),
-            projectLink: "/ui-components",
-        },
-        {
-            title: "Pet Dex",
-            imageLink: require("../assets/images/project-icons/pet-dex.png"),
-            projectLink: "/pet-dex",
-        },
-        {
-            title: "Graphic Design",
-            imageLink: require("../assets/images/project-icons/graphic-design.png"),
-            projectLink: "/graphic-design",
-        },
-    ];
-
+    const projectsList = projectsData.data.map((item: any) => ({
+        title: item.title,
+        imageLink: item.imageLink,
+        projectLink: item.projectLink,
+    }));
 
     return (
         <>
