@@ -15,7 +15,7 @@ const NavbarComponent = () => {
                         height="30"
                         className="d-inline-block align-top"
                     />
-                    Kharizza<span id='navbar-brand-name'>Viloria</span>
+                    <strong> Kharizza</strong><span id='navbar-brand-name'><strong>Viloria</strong></span>
                 </Navbar.Brand>
             </Container>
         </Navbar>
