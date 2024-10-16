@@ -8,6 +8,7 @@ import projectsData from "../data/projects.json"
 import { useLocation } from 'react-router-dom'
 import ProjectScreenshotsComponent from '../components/ProjectScreenshotsComponent'
 import BrowseProjectsComponent from '../components/BrowseProjectsComponent'
+import BackButtonComponent from '../components/BackButtonComponent'
 
 const FizziSoda = () => {
 
@@ -22,6 +23,9 @@ const FizziSoda = () => {
 
       <div className="project-body">
         <Container>
+
+          <BackButtonComponent />
+
           <h1 className="project-page-title">{projectData.title}</h1>
           <h2 className="project-page-subtitle text-white">3D / Animated Landing Page</h2>
        
