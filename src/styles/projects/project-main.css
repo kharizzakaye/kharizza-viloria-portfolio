@@ -19,9 +19,14 @@
     font-size: 14px;
 }
 
-.button-icon-padding {
-    padding-right: 5px;
+.button-icon-padding-previous {
+    padding-right: 10px;
 }
+
+.button-icon-padding-next {
+    padding-left: 10px;
+}
+
 
 .back-button {
     margin-top: 50px;

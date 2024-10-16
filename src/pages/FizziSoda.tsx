@@ -6,12 +6,14 @@ import { Container } from 'react-bootstrap'
 import TechnologyBadgeComponent from '../components/TechnologyBadgeComponent'
 import projectsData from "../data/projects.json"
 import { useLocation } from 'react-router-dom'
-import ProjectScreenshotsComponent from './ProjectScreenshotsComponent'
+import ProjectScreenshotsComponent from '../components/ProjectScreenshotsComponent'
+import BrowseProjectsComponent from '../components/BrowseProjectsComponent'
 
 const FizziSoda = () => {
 
   const location = useLocation();
-  const fetchProjectData = projectsData.data.filter(item => item.projectLink === location.pathname);
+  const pathname = location.pathname;
+  const fetchProjectData = projectsData.data.filter(item => item.projectLink === pathname);
   const projectData = fetchProjectData[0];
 
   return (
@@ -26,6 +28,8 @@ const FizziSoda = () => {
           <TechnologyBadgeComponent technologiesList={projectData.technologies} />
 
           <ProjectScreenshotsComponent imagesList={projectData.sampleImages} />
+
+          <BrowseProjectsComponent projectsListData={projectsData.data} />
         </Container>
       </div>
       
