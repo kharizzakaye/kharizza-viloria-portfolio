@@ -5,10 +5,8 @@ import { Container } from 'react-bootstrap'
 import TechnologyBadgeComponent from '../components/TechnologyBadgeComponent'
 import projectsData from "../data/projects.json"
 import { useLocation } from 'react-router-dom'
-import ProjectScreenshotsComponent from '../components/ProjectScreenshotsComponent'
 import BrowseProjectsComponent from '../components/BrowseProjectsComponent'
 import BackButtonComponent from '../components/BackButtonComponent'
-import DemoButtonsComponent from '../components/DemoButtonsComponent'
 
 const UIComponents = () => {
 

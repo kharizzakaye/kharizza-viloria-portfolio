@@ -242,43 +242,35 @@
 
         {
             "title": "Pet Dex",
-            "subtitle": "Desserts Shop - Add to Cart Page",
+            "subtitle": "Pet Health Mobile Application",
             "imageLink": "../assets/images/project-icons/pet-dex.png",
             "projectLink": "/pet-dex",
             "projectType": "",
             "technologies": [
-                "React",
-                "Next.js",
-                "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
-                "Git",
-                "GitHub",
-                "Prismic CMS",
-                "Responsive",
-                "Animation",
-                "Netlify"
+                "Balsamiq",
+                "User Interace (UI) Design",
+                "User Experience (UX) Design"
             ],
-            "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
-            "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-1.png",
+                    "altText": "Screenshot for Pet Dex 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-2.png",
+                    "altText": "Screenshot for Pet Dex 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-3.png",
+                    "altText": "Screenshot for Pet Dex 3"
+                },
+                {
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-4.png",
+                    "altText": "Screenshot for Pet Dex 4"
                 }
             ]
         },
