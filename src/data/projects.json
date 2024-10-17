@@ -217,45 +217,27 @@
         },
         {
             "title": "User Interface Components",
-            "subtitle": "Desserts Shop - Add to Cart Page",
+            "subtitle": "Components collection",
             "imageLink": "../assets/images/project-icons/components.png",
             "projectLink": "/ui-components",
             "projectType": "",
             "technologies": [
-                "React",
-                "Next.js",
-                "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
                 "Git",
                 "GitHub",
-                "Prismic CMS",
-                "Responsive",
-                "Animation",
-                "Netlify"
+                "React",
+                "React Bootstrap",
+                "Mobile-First Design",
+                "Responsive"
             ],
-            "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
-            "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
-            "sampleImages": [
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
-                }
-            ]
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": []
         },
 
         {
