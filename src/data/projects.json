@@ -189,43 +189,29 @@
         },
         {
             "title": "Design Portfolio",
-            "subtitle": "Desserts Shop - Add to Cart Page",
+            "subtitle": "Single Page Design Portfolio",
             "imageLink": "../assets/images/project-icons/design-portfolio.png",
             "projectLink": "/design-portfolio",
             "projectType": "",
             "technologies": [
-                "React",
-                "Next.js",
-                "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
+                "HTML5",
+                "SASS",
+                "Bootstrap",
+                "JavaScript",
                 "Git",
                 "GitHub",
-                "Prismic CMS",
-                "Responsive",
-                "Animation",
-                "Netlify"
+                "Netlify",
+                "Mobile-First Design",
+                "Responsive"
             ],
             "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "sourceCodeLink": "https://github.com/kharizzakaye/single-page-design-portfolio",
             "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "liveDemoLink": "https://design-portfolio-kharizza.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
+                    "imageLink": "../assets/images/projects/single-page-design/single-page-desktop.png",
+                    "altText": "Screenshot for Design Portfolio"
                 }
             ]
         },
