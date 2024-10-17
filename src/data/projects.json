@@ -2,6 +2,7 @@
     "data": [
         {
             "title": "Fizzi Soda",
+            "subtitle": "3D / Animated Landing Page",
             "imageLink": "../assets/images/project-icons/fizzi-soda.png",
             "projectLink": "/fizzi-soda",
             "projectType": "",

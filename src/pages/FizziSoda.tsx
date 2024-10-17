@@ -9,6 +9,7 @@ import { useLocation } from 'react-router-dom'
 import ProjectScreenshotsComponent from '../components/ProjectScreenshotsComponent'
 import BrowseProjectsComponent from '../components/BrowseProjectsComponent'
 import BackButtonComponent from '../components/BackButtonComponent'
+import DemoButtonsComponent from '../components/DemoButtonsComponent'
 
 const FizziSoda = () => {
 
@@ -27,13 +28,16 @@ const FizziSoda = () => {
           <BackButtonComponent />
 
           <h1 className="project-page-title">{projectData.title}</h1>
-          <h2 className="project-page-subtitle text-white">3D / Animated Landing Page</h2>
+          <h2 className="project-page-subtitle text-white">{projectData.subtitle}</h2>
        
           <TechnologyBadgeComponent technologiesList={projectData.technologies} />
+
+          <DemoButtonsComponent projectData={projectData} />
 
           <ProjectScreenshotsComponent imagesList={projectData.sampleImages} />
 
           <BrowseProjectsComponent projectsListData={projectsData.data} />
+
         </Container>
       </div>
       
