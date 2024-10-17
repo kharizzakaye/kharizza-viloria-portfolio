@@ -151,43 +151,39 @@
         },
         {
             "title": "Jigsaw Puzzle Inventory",
-            "subtitle": "Desserts Shop - Add to Cart Page",
+            "subtitle": "Jigsaw Puzzle Community PH / Puzzle Mansion",
             "imageLink": "../assets/images/project-icons/puzzle-inventory.png",
             "projectLink": "/jigsaw-inventory",
             "projectType": "",
             "technologies": [
-                "React",
-                "Next.js",
-                "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "PHP",
+                "MySQL",
+                "DataTables",
                 "Git",
                 "GitHub",
-                "Prismic CMS",
-                "Responsive",
-                "Animation",
-                "Netlify"
+                "Mobile-First Design",
+                "Responsive"
             ],
-            "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
-            "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-1.png",
+                    "altText": "Image for login page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-2.png",
+                    "altText": "Image for create account page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-dashboard.png",
+                    "altText": "Image for dashboard page"
                 }
             ]
         },
