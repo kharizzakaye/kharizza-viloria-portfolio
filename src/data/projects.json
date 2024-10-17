@@ -78,43 +78,283 @@
             "title": "Desserts Shop",
             "imageLink": "../assets/images/project-icons/dessert-shop.png",
             "projectLink": "/desserts-shop",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "HTML5",
+                "CSS3",
+                "Bootstrap",
+                "JavaScript",
+                "Git",
+                "GitHub",
+                "Netlify",
+                "Mobile-First Design",
+                "Responsive"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/Product-list-with-cart",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://product-cart-kharizza.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-2.png",
+                    "altText": "Screenshot for Desserts Shop 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-1.png",
+                    "altText": "Screenshot for Desserts Shop 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-3.png",
+                    "altText": "Screenshot for Desserts Shop 3"
+                }
+            ]
         },
         {
             "title": "Where in the world?",
             "imageLink": "../assets/images/project-icons/world.png",
             "projectLink": "/where-in-the-world",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         },
         {
             "title": "Jigsaw Puzzle Inventory",
             "imageLink": "../assets/images/project-icons/puzzle-inventory.png",
             "projectLink": "/jigsaw-inventory",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         },
         {
             "title": "Design Portfolio",
             "imageLink": "../assets/images/project-icons/design-portfolio.png",
             "projectLink": "/design-portfolio",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         },
         {
             "title": "User Interface Components",
             "imageLink": "../assets/images/project-icons/components.png",
             "projectLink": "/ui-components",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         },
+
         {
             "title": "Pet Dex",
             "imageLink": "../assets/images/project-icons/pet-dex.png",
             "projectLink": "/pet-dex",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         },
         {
             "title": "Graphic Design",
             "imageLink": "../assets/images/project-icons/graphic-design.png",
             "projectLink": "/graphic-design",
-            "projectType": ""
+            "projectType": "",
+            "technologies": [
+                "React",
+                "Next.js",
+                "Typescript",
+                "Tailwind CSS",
+                "GSAP",
+                "Three.js",
+                "React Three Fiber (R3F)",
+                "Drei",
+                "Zustand",
+                "Git",
+                "GitHub",
+                "Prismic CMS",
+                "Responsive",
+                "Animation",
+                "Netlify"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "altText": "Screenshot for Fizzi 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "altText": "Screenshot for Fizzi 2"
+                },
+                {
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "altText": "Screenshot for Fizzi 3"
+                }
+            ]
         }
     ]
 }
