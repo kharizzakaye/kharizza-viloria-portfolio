@@ -276,43 +276,50 @@
         },
         {
             "title": "Graphic Design",
-            "subtitle": "Desserts Shop - Add to Cart Page",
+            "subtitle": "Various graphic design projects",
             "imageLink": "../assets/images/project-icons/graphic-design.png",
             "projectLink": "/graphic-design",
             "projectType": "",
             "technologies": [
-                "React",
-                "Next.js",
-                "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
-                "Git",
-                "GitHub",
-                "Prismic CMS",
-                "Responsive",
-                "Animation",
-                "Netlify"
+                "Adobe Photoshop",
+                "Adobe Illustrator",
+                "Photo Enhancement",
+                "Photo Editing",
+                "Branding",
+                "Layouting"
             ],
-            "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
-            "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
+                    "imageLink": "../assets/images/projects/graphic-design/lol-all-tournaments.jpg",
+                    "altText": "Screenshot for Graphic Design 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
+                    "imageLink": "../assets/images/projects/graphic-design/lol-inter-school-poster.jpg",
+                    "altText": "Screenshot for Graphic Design 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
+                    "imageLink": "../assets/images/projects/graphic-design/dota-summer-tournament-poster.jpg",
+                    "altText": "Screenshot for Graphic Design 3"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/kalye-bbq-social-media-ads.jpg",
+                    "altText": "Screenshot for Graphic Design 4"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/pinnacle-discount-coupon.jpg",
+                    "altText": "Screenshot for Graphic Design 5"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/730th-block-business-card.jpg",
+                    "altText": "Screenshot for Graphic Design 6"
+                },
+                {
+                    "imageLink": "../assets/images/projects/graphic-design/north-pacific-flyer.jpg",
+                    "altText": "Screenshot for Graphic Design 7"
                 }
             ]
         }
