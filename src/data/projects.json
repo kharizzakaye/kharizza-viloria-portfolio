@@ -76,6 +76,7 @@
         },
         {
             "title": "Desserts Shop",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/dessert-shop.png",
             "projectLink": "/desserts-shop",
             "projectType": "",
@@ -111,47 +112,46 @@
         },
         {
             "title": "Where in the world?",
+            "subtitle": "REST Countries API",
             "imageLink": "../assets/images/project-icons/world.png",
             "projectLink": "/where-in-the-world",
             "projectType": "",
             "technologies": [
                 "React",
-                "Next.js",
                 "Typescript",
-                "Tailwind CSS",
-                "GSAP",
-                "Three.js",
-                "React Three Fiber (R3F)",
-                "Drei",
-                "Zustand",
+                "Axios",
+                "React Router",
+                "React Bootstrap",
+                "REST API",
                 "Git",
                 "GitHub",
-                "Prismic CMS",
+                "Netlify",
+                "Mobile-First Design",
                 "Responsive",
-                "Animation",
-                "Netlify"
+                "API Integration"
             ],
             "hasSourceCode": true,
-            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-fizzi",
+            "sourceCodeLink": "https://github.com/kharizzakaye/rest-countries",
             "hasLiveDemo": true,
-            "liveDemoLink": "https://fizzi-soda.netlify.app/",
+            "liveDemoLink": "https://countries-kharizza.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
-                    "altText": "Screenshot for Fizzi 1"
+                    "imageLink": "../assets/images/projects/countries/countries-1.png",
+                    "altText": "Screenshot for Countries 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
-                    "altText": "Screenshot for Fizzi 2"
+                    "imageLink": "../assets/images/projects/countries/countries-2.png",
+                    "altText": "Screenshot for Countries 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
-                    "altText": "Screenshot for Fizzi 3"
+                    "imageLink": "../assets/images/projects/countries/countries-3.png",
+                    "altText": "Screenshot for Countries 3"
                 }
             ]
         },
         {
             "title": "Jigsaw Puzzle Inventory",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/puzzle-inventory.png",
             "projectLink": "/jigsaw-inventory",
             "projectType": "",
@@ -193,6 +193,7 @@
         },
         {
             "title": "Design Portfolio",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/design-portfolio.png",
             "projectLink": "/design-portfolio",
             "projectType": "",
@@ -234,6 +235,7 @@
         },
         {
             "title": "User Interface Components",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/components.png",
             "projectLink": "/ui-components",
             "projectType": "",
@@ -276,6 +278,7 @@
 
         {
             "title": "Pet Dex",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/pet-dex.png",
             "projectLink": "/pet-dex",
             "projectType": "",
@@ -317,6 +320,7 @@
         },
         {
             "title": "Graphic Design",
+            "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/graphic-design.png",
             "projectLink": "/graphic-design",
             "projectType": "",
