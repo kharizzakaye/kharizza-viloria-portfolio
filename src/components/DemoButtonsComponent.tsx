@@ -25,7 +25,7 @@ const DemoButtonsComponent = (projectData: any) => {
             <>
                 <Button variant="outline-info" href={ projectData.projectData.liveDemoLink } className="back-button" target="_blank">
                     <FontAwesomeIcon icon={faLink} className="button-icon-padding-previous" />
-                    Visit Site
+                    View Demo
                 </Button>
             </>
         }

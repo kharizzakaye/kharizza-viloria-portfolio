@@ -7,6 +7,7 @@ import projectsData from "../data/projects.json"
 import { useLocation } from 'react-router-dom'
 import BrowseProjectsComponent from '../components/BrowseProjectsComponent'
 import BackButtonComponent from '../components/BackButtonComponent'
+import TiledScreenshotsComponent from '../components/TiledScreenshotsComponent'
 
 const UIComponents = () => {
 
@@ -28,6 +29,8 @@ const UIComponents = () => {
           <h2 className="project-page-subtitle text-white">{projectData.subtitle}</h2>
        
           <TechnologyBadgeComponent technologiesList={projectData.technologies} />
+
+          <TiledScreenshotsComponent projectData={projectData}/>
 
           <BrowseProjectsComponent projectsListData={projectsData.data} />
 

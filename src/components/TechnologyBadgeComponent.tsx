@@ -5,8 +5,10 @@ const TechnologyBadgeComponent = (technologiesList: any) => {
     return (
         <>
             <section className="technology-badge-section">
-                { technologiesList.technologiesList.map((item: any) => (
-                    <Badge className="rounded-pill bg-warning text-dark technology-badge">{item}</Badge>
+                { technologiesList.technologiesList.map((item: any, index: any) => (
+                    <Badge className="rounded-pill bg-warning text-dark technology-badge" key={index}>
+                        {item}
+                    </Badge>
                 ))}
             </section>
         </>

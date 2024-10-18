@@ -237,7 +237,61 @@
             "sourceCodeLink": "",
             "hasLiveDemo": false,
             "liveDemoLink": "",
-            "sampleImages": []
+            "sampleImages": [],
+            "subProjects": [
+                {
+                    "title": "Product Preview Card Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/product-preview-thumbnail.png",
+                        "altText": "Image for Product Preview Card Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/kharizzakaye/Product-preview-card-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://kharizzakaye.github.io/Product-preview-card-component/"
+                },
+                {
+                    "title": "Interactive Rating Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/interactive-rating-thumbnail.png",
+                        "altText": "Image for Interactive Rating Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/kharizzakaye/Interactive-rating-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://kharizzakaye.github.io/Interactive-rating-component/"
+                },
+                {
+                    "title": "Order Summary Component",
+                    "imageCover": {
+                        "imageCoverLink": "/assets/images/projects/ui-components/order-summary-thumbnail.png",
+                        "altText": "Image for Order Summary Component"
+                    },
+                    "hasSourceCode": true,
+                    "sourceCodeLinks": [
+                        {
+                            "sourceCodeLink": "https://github.com/kharizzakaye/Order-summary-component",
+                            "sourceCodeLinkTitle": "HTML, CSS, Bootstrap"
+                        },
+                        {
+                            "sourceCodeLink": "https://github.com/kharizzakaye/Order-summary-component-React",
+                            "sourceCodeLinkTitle": "React"
+                        }
+                    ],
+                    "hasLiveDemo": true,
+                    "liveDemoLink": "https://kharizzakaye.github.io/Order-summary-component/"
+                }
+            ]
         },
 
         {
