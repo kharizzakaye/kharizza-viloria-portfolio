@@ -1,4 +1,3 @@
-import React from 'react'
 import "../styles/projects/project-main.css"
 import Button from 'react-bootstrap/Button';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';

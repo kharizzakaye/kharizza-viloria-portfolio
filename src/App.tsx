@@ -1,5 +1,3 @@
-import React from 'react';
-
 import 'bootstrap/dist/css/bootstrap.min.css';
 import {
   BrowserRouter as Router,
@@ -24,15 +22,14 @@ function App() {
       <Router>
         <Routes>
           <Route path="/" element={<Homepage />} />
-          <Route path="/fizzi-soda" element={<FizziSoda />} />
-          <Route path="/desserts-shop" element={<DessertsShop />} />
-          <Route path="/where-in-the-world" element={<WhereInTheWorld />} />
-          <Route path="/jigsaw-inventory" element={<JigsawInventory />} />
-          <Route path="/design-portfolio" element={<DesignPortfolio />} />
-          <Route path="/ui-components" element={<UIComponents />} />
-          <Route path="/pet-dex" element={<PetDex />} />
-          <Route path="/graphic-design" element={<GraphicDesign />} />
-          {/* <Route path={process.env.REACT_APP_URL_COUNTRY_DETAILS_PAGE} element={<CountryDetailsPage />} /> */}
+          <Route path={process.env.REACT_APP_URL_FIZZI_SODA} element={<FizziSoda />} />
+          <Route path={process.env.REACT_APP_URL_DESSERTS_SHOP} element={<DessertsShop />} />
+          <Route path={process.env.REACT_APP_URL_WHERE_IN_THE_WORLD} element={<WhereInTheWorld />} />
+          <Route path={process.env.REACT_APP_URL_JIGSAW_INVENTORY} element={<JigsawInventory />} />
+          <Route path={process.env.REACT_APP_URL_DESIGN_PORTFOLIO} element={<DesignPortfolio />} />
+          <Route path={process.env.REACT_APP_URL_UI_COMPONENTS} element={<UIComponents />} />
+          <Route path={process.env.REACT_APP_URL_PET_DEX} element={<PetDex />} />
+          <Route path={process.env.REACT_APP_URL_GRAPHIC_DESIGN} element={<GraphicDesign />} />
         </Routes>
       </Router>
     </>

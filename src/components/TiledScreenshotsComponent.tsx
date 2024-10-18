@@ -1,5 +1,3 @@
-import React from 'react'
-import Card from 'react-bootstrap/Card';
 import { Row, Col, Container, Button } from 'react-bootstrap';
 import Image from 'react-bootstrap/Image';
 import "../styles/projects/project-main.css";
@@ -10,8 +8,6 @@ import { faLink } from '@fortawesome/free-solid-svg-icons';
 import Dropdown from 'react-bootstrap/Dropdown';
 
 const TiledScreenshotsComponent = (projectData: any) => {
-
-  console.log(projectData.projectData.subProjects)
 
   return (
     <section>
