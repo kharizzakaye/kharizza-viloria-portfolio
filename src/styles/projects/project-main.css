@@ -135,7 +135,6 @@
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {
     .project-page-title {
-        /* padding-top: 20px; */
         font-size: 40px;
     }
 

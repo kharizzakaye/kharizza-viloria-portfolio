@@ -37,9 +37,6 @@ const JigsawInventory = () => {
             of jigsaw puzzles in a collection.
           </p>
 
-          <br></br>
-          <br></br>
-
           <DemoButtonsComponent projectData={projectData} />
 
           <ProjectScreenshotsComponent imagesList={projectData.sampleImages} />
