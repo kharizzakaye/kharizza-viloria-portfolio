@@ -52,7 +52,7 @@
 }
 
 .browse-project-buttons {
-    margin-top: 70px;
+    margin-top: 30px;
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -81,6 +81,10 @@
 
     .project-screenshots {
         margin-bottom: 20px;
+    }
+
+    .browse-project-buttons {
+        margin-top: 40px;
     }
 }
 
@@ -115,6 +119,9 @@
         margin-bottom: 50px;
     }
     
+    .browse-project-buttons {
+        margin-top: 50px;
+    }
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
@@ -130,6 +137,10 @@
     .project-page-description {
         font-size: 17px;
     }
+
+    /* .browse-project-buttons {
+        margin-top: 60px;
+    } */
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */

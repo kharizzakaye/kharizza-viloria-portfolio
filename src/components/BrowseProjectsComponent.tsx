@@ -46,12 +46,12 @@ const BrowseProjectsComponent = (projectsListData: any) => {
     return (
         <>
             <section id="browse-projects-container" className="browse-project-buttons position-relative">
-                <Button variant="outline-light" href={`${viewPreviousProject}`} className="previous-button">
+                <Button variant="outline-light" href={`${viewPreviousProject}`}>
                     <FontAwesomeIcon icon={faArrowLeft} className="button-icon-padding-previous" />
                     Previous Project
                 </Button>
 
-                <Button variant="outline-light" href={`${viewNextProject}`} className="next-button position-absolute end-0">
+                <Button variant="outline-light" href={`${viewNextProject}`} className="position-absolute end-0">
                     Next Project
                     <FontAwesomeIcon icon={faArrowRight} className="button-icon-padding-next" />
                 </Button>
