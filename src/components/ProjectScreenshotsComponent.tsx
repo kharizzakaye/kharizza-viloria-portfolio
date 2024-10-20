@@ -9,7 +9,7 @@ const ProjectScreenshotsComponent = (imagesList: any) => {
                         src={item.imageLink}
                         alt={item.altText}
                         fluid
-                        className="mb-5"
+                        className="project-screenshots"
                     />            
                 ))}
             </section>

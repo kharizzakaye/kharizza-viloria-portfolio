@@ -1,11 +1,9 @@
 .project-body {
-    padding-top: 60px;
     padding-bottom: 50px;
     background-color: #03071e;
 }
 
 .project-page-title {
-    padding-top: 30px;
     font-size: 35px;  
     font-weight: 700;
     color: #e85d04;
@@ -29,19 +27,13 @@
 
 
 .back-button {
-    margin-top: 5px;
-    margin-bottom: 10px;
-}
-
-.live-demo-button {
     margin-top: 20px;
-    background-color:yellowgreen;
-    border: none;
+    margin-bottom: 30px;
 }
 
 .technology-badge-section {
     margin-top: 15px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .technology-badge {
@@ -49,6 +41,14 @@
     font-size: 15px;
     margin-bottom: 10px;
     margin-right: 5px;
+}
+
+.demo-buttons-section {
+    margin-bottom: 30px;
+}
+
+.project-screenshots {
+    margin-bottom: 15px;
 }
 
 .browse-project-buttons {
@@ -62,8 +62,12 @@
 
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
+    .back-button {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+
     .project-page-title {
-        padding-top: 50px;
         font-size: 35px;
     }
 
@@ -73,13 +77,21 @@
 
     .project-page-description {
         font-size: 15px;
+    }
+
+    .project-screenshots {
+        margin-bottom: 20px;
     }
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
+    .back-button {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+
     .project-page-title {
-        padding-top: 80px;
         font-size: 35px;
     }
 
@@ -90,12 +102,24 @@
     .project-page-description {
         font-size: 15px;
     }
+
+    .project-screenshots {
+        margin-bottom: 30px;
+    }
+
+    .technology-badge-section {
+        margin-bottom: 40px;
+    }
+
+    .demo-buttons-section {
+        margin-bottom: 50px;
+    }
+    
 }
 
 /* X-Large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
     .project-page-title {
-        padding-top: 20px;
         font-size: 40px;
     }
 
@@ -105,21 +129,13 @@
 
     .project-page-description {
         font-size: 17px;
-    }
-
-    .back-button {
-        margin-bottom: 30px;
-    }
-
-    .live-demo-button {
-        margin-top: 20px;
     }
 }
 
 /* XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px) {
     .project-page-title {
-        padding-top: 20px;
+        /* padding-top: 20px; */
         font-size: 40px;
     }
 
@@ -129,13 +145,5 @@
 
     .project-page-description {
         font-size: 17px;
-    }
-
-    .back-button {
-        margin-bottom: 30px;
-    }
-
-    .live-demo-button {
-        margin-top: 20px;
     }
 }

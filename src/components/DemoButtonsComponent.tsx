@@ -7,10 +7,10 @@ import { faLink } from '@fortawesome/free-solid-svg-icons';
 const DemoButtonsComponent = (projectData: any) => {
   return (
     <>
-    <section>
+    <section className="demo-buttons-section">
         { projectData.projectData.hasSourceCode &&
             <>
-                <Button variant="outline-info" href={ projectData.projectData.sourceCodeLink } className="back-button" target="_blank">
+                <Button variant="outline-info" href={ projectData.projectData.sourceCodeLink } target="_blank">
                     <FontAwesomeIcon icon={faGithub} className="button-icon-padding-previous" />
                     View Code
                 </Button>
@@ -22,7 +22,7 @@ const DemoButtonsComponent = (projectData: any) => {
 
         { projectData.projectData.hasLiveDemo &&
             <>
-                <Button variant="outline-info" href={ projectData.projectData.liveDemoLink } className="back-button" target="_blank">
+                <Button variant="outline-info" href={ projectData.projectData.liveDemoLink } target="_blank">
                     <FontAwesomeIcon icon={faLink} className="button-icon-padding-previous" />
                     View Demo
                 </Button>
