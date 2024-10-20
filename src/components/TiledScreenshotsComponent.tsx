@@ -28,8 +28,8 @@ const TiledScreenshotsComponent = (projectData: any) => {
                   <>
                     {( project.sourceCodeLinks.length == 1 ) &&
                       <Button 
-                        variant="outline-info" 
-                        href={ projectData.projectData.sourceCodeLink }
+                        variant="outline-info"
+                        href={ project.sourceCodeLinks[0].sourceCodeLink }
                         target="_blank"
                       >
                         <FontAwesomeIcon icon={faGithub} className="button-icon-padding-previous" />
