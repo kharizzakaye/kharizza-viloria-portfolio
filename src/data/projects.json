@@ -184,6 +184,10 @@
                 {
                     "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-dashboard.png",
                     "altText": "Image for dashboard page"
+                },
+                {
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-members-pdf.png",
+                    "altText": "Image for exported puzzles"
                 }
             ]
         },
