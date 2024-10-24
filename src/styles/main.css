@@ -3,6 +3,7 @@
 @font-face {
     font-family: winnie-font;
     src: url(../assets/fonts/winie-font.otf);
+    font-display: swap;
 }
 
 body
