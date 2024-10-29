@@ -5,7 +5,7 @@ import PageNotFoundComponent from '../components/PageNotFoundComponent'
 const PageNotFound = () => {
   return (
     <>
-        <NavbarComponent />
+        {/* <NavbarComponent /> */}
         <PageNotFoundComponent />
     </>
   )

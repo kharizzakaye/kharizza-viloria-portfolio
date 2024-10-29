@@ -32,7 +32,8 @@ function App() {
           <Route path={process.env.REACT_APP_URL_UI_COMPONENTS} element={<UIComponents />} />
           <Route path={process.env.REACT_APP_URL_PET_DEX} element={<PetDex />} />
           <Route path={process.env.REACT_APP_URL_GRAPHIC_DESIGN} element={<GraphicDesign />} />
-          <Route path="*" element={<Navigate to="/" /> } />
+          {/* <Route path="*" element={<Navigate to="/" /> } /> */}
+          <Route path="*" element={<PageNotFound /> } />
         </Routes>
       </Router>
     </>
