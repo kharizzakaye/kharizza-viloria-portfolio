@@ -3,6 +3,7 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
+  Navigate,
 } from "react-router-dom";
 
 import "./styles/main.css";
@@ -15,6 +16,7 @@ import DesignPortfolio from './pages/DesignPortfolio';
 import UIComponents from './pages/UIComponents';
 import PetDex from './pages/PetDex';
 import GraphicDesign from './pages/GraphicDesign';
+import PageNotFound from './pages/PageNotFound';
 
 function App() {
   return (
@@ -30,6 +32,7 @@ function App() {
           <Route path={process.env.REACT_APP_URL_UI_COMPONENTS} element={<UIComponents />} />
           <Route path={process.env.REACT_APP_URL_PET_DEX} element={<PetDex />} />
           <Route path={process.env.REACT_APP_URL_GRAPHIC_DESIGN} element={<GraphicDesign />} />
+          <Route path="*" element={<Navigate to="/" /> } />
         </Routes>
       </Router>
     </>
