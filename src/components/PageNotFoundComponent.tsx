@@ -7,8 +7,8 @@ import { faArrowLeft } from '@fortawesome/free-solid-svg-icons'
 const PageNotFoundComponent = () => {
     return (
         <div className="background">
-    <       Container className="vh-100">
-                <Row className="d-flex justify-content-center align-items-center h-100">
+            <Container className="vh-100">
+                <Row className="center">
                     <Col className="text-center" xl={6} lg={6} md={12}>
                         <Image
                             src="/assets/images/outer-space.png"
