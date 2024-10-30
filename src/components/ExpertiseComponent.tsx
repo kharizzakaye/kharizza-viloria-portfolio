@@ -4,13 +4,11 @@ import { Row, Col, Container } from 'react-bootstrap';
 import "../styles/main.css";
 import "../styles/hover.css";
 
-type Props = {}
+const ExpertiseComponent = () => {
 
-const ExpertiseComponent = (props: Props) => {
-
-    const webDevelopmentImage = require("../assets/images/web-development.png");
-    const uxuiDesignImage = require("../assets/images/ux-ui-design.png");
-    const graphicDesignImage = require("../assets/images/graphic-design.png");
+    const webDevelopmentImage = require("../assets/images/web-development.webp");
+    const uxuiDesignImage = require("../assets/images/ux-ui-design.webp");
+    const graphicDesignImage = require("../assets/images/graphic-design.webp");
 
     return (
         <>

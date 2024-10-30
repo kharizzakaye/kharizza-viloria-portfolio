@@ -3,7 +3,7 @@
         {
             "title": "Fizzi Soda",
             "subtitle": "3D / Animated Landing Page",
-            "imageLink": "../assets/images/project-icons/fizzi-soda.png",
+            "imageLink": "../assets/images/project-icons/fizzi-soda.webp",
             "projectLink": "/fizzi-soda",
             "projectType": "",
             "technologies": [
@@ -29,47 +29,47 @@
             "liveDemoLink": "https://fizzi-soda.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-1.webp",
                     "altText": "Screenshot for Fizzi 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-2.webp",
                     "altText": "Screenshot for Fizzi 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.webp",
                     "altText": "Screenshot for Fizzi 3"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-4.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-4.webp",
                     "altText": "Screenshot for Fizzi 4"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-5.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-5.webp",
                     "altText": "Screenshot for Fizzi 5"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-6.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-6.webp",
                     "altText": "Screenshot for Fizzi 6"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-7.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-7.webp",
                     "altText": "Screenshot for Fizzi 7"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-8.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-8.webp",
                     "altText": "Screenshot for Fizzi 8"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-9.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-9.webp",
                     "altText": "Screenshot for Fizzi 9"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-10.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-10.webp",
                     "altText": "Screenshot for Fizzi 10"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-11.png",
+                    "imageLink": "../assets/images/projects/fizzi/fizzi-11.webp",
                     "altText": "Screenshot for Fizzi 11"
                 }
             ]
@@ -77,7 +77,7 @@
         {
             "title": "Desserts Shop",
             "subtitle": "Desserts Shop - Add to Cart Page",
-            "imageLink": "../assets/images/project-icons/dessert-shop.png",
+            "imageLink": "../assets/images/project-icons/dessert-shop.webp",
             "projectLink": "/desserts-shop",
             "projectType": "",
             "technologies": [
@@ -97,15 +97,15 @@
             "liveDemoLink": "https://product-cart-kharizza.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/desserts-shop/desserts-2.png",
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-2.webp",
                     "altText": "Screenshot for Desserts Shop 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/desserts-shop/desserts-1.png",
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-1.webp",
                     "altText": "Screenshot for Desserts Shop 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/desserts-shop/desserts-3.png",
+                    "imageLink": "../assets/images/projects/desserts-shop/desserts-3.webp",
                     "altText": "Screenshot for Desserts Shop 3"
                 }
             ]
@@ -113,7 +113,7 @@
         {
             "title": "Where in the world?",
             "subtitle": "REST Countries API",
-            "imageLink": "../assets/images/project-icons/world.png",
+            "imageLink": "../assets/images/project-icons/world.webp",
             "projectLink": "/where-in-the-world",
             "projectType": "",
             "technologies": [
@@ -136,15 +136,15 @@
             "liveDemoLink": "https://countries-kharizza.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/countries/countries-1.png",
+                    "imageLink": "../assets/images/projects/countries/countries-1.webp",
                     "altText": "Screenshot for Countries 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/countries/countries-2.png",
+                    "imageLink": "../assets/images/projects/countries/countries-2.webp",
                     "altText": "Screenshot for Countries 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/countries/countries-3.png",
+                    "imageLink": "../assets/images/projects/countries/countries-3.webp",
                     "altText": "Screenshot for Countries 3"
                 }
             ]
@@ -152,7 +152,7 @@
         {
             "title": "Jigsaw Puzzle Inventory",
             "subtitle": "Jigsaw Puzzle Community PH / Puzzle Mansion",
-            "imageLink": "../assets/images/project-icons/puzzle-inventory.png",
+            "imageLink": "../assets/images/project-icons/puzzle-inventory.webp",
             "projectLink": "/jigsaw-inventory",
             "projectType": "",
             "technologies": [
@@ -176,23 +176,23 @@
             "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-1.png",
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-1.webp",
                     "altText": "Image for login page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-2.png",
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-2.webp",
                     "altText": "Image for create account page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-dashboard.png",
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-dashboard.webp",
                     "altText": "Image for dashboard page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-members.png",
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-db-members.webp",
                     "altText": "Image for jpcph members page"
                 },
                 {
-                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-members-pdf.png",
+                    "imageLink": "../assets/images/projects/jigsaw-puzzle-inventory/puzzle-members-pdf.webp",
                     "altText": "Image for exported puzzles"
                 }
             ]
@@ -200,7 +200,7 @@
         {
             "title": "Design Portfolio",
             "subtitle": "Single Page Design Portfolio",
-            "imageLink": "../assets/images/project-icons/design-portfolio.png",
+            "imageLink": "../assets/images/project-icons/design-portfolio.webp",
             "projectLink": "/design-portfolio",
             "projectType": "",
             "technologies": [
@@ -220,7 +220,7 @@
             "liveDemoLink": "https://design-portfolio-kharizza.netlify.app/",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/single-page-design/single-page-desktop.png",
+                    "imageLink": "../assets/images/projects/single-page-design/single-page-desktop.webp",
                     "altText": "Screenshot for Design Portfolio"
                 }
             ]
@@ -228,7 +228,7 @@
         {
             "title": "User Interface Components",
             "subtitle": "Components collection",
-            "imageLink": "../assets/images/project-icons/components.png",
+            "imageLink": "../assets/images/project-icons/components.webp",
             "projectLink": "/ui-components",
             "projectType": "",
             "technologies": [
@@ -252,7 +252,7 @@
                 {
                     "title": "Product Preview Card Component",
                     "imageCover": {
-                        "imageCoverLink": "/assets/images/projects/ui-components/product-preview-thumbnail.png",
+                        "imageCoverLink": "/assets/images/projects/ui-components/product-preview-thumbnail.webp",
                         "altText": "Image for Product Preview Card Component"
                     },
                     "hasSourceCode": true,
@@ -268,7 +268,7 @@
                 {
                     "title": "Interactive Rating Component",
                     "imageCover": {
-                        "imageCoverLink": "/assets/images/projects/ui-components/interactive-rating-thumbnail.png",
+                        "imageCoverLink": "/assets/images/projects/ui-components/interactive-rating-thumbnail.webp",
                         "altText": "Image for Interactive Rating Component"
                     },
                     "hasSourceCode": true,
@@ -284,7 +284,7 @@
                 {
                     "title": "Order Summary Component",
                     "imageCover": {
-                        "imageCoverLink": "/assets/images/projects/ui-components/order-summary-thumbnail.png",
+                        "imageCoverLink": "/assets/images/projects/ui-components/order-summary-thumbnail.webp",
                         "altText": "Image for Order Summary Component"
                     },
                     "hasSourceCode": true,
@@ -307,7 +307,7 @@
         {
             "title": "Pet Dex",
             "subtitle": "Pet Health Mobile Application",
-            "imageLink": "../assets/images/project-icons/pet-dex.png",
+            "imageLink": "../assets/images/project-icons/pet-dex.webp",
             "projectLink": "/pet-dex",
             "projectType": "",
             "technologies": [
@@ -321,19 +321,19 @@
             "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-1.png",
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-1.webp",
                     "altText": "Screenshot for Pet Dex 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-2.png",
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-2.webp",
                     "altText": "Screenshot for Pet Dex 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-3.png",
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-3.webp",
                     "altText": "Screenshot for Pet Dex 3"
                 },
                 {
-                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-4.png",
+                    "imageLink": "../assets/images/projects/pet-dex/pet-dex-4.webp",
                     "altText": "Screenshot for Pet Dex 4"
                 }
             ]
@@ -341,7 +341,7 @@
         {
             "title": "Graphic Design",
             "subtitle": "Various graphic design projects",
-            "imageLink": "../assets/images/project-icons/graphic-design.png",
+            "imageLink": "../assets/images/project-icons/graphic-design.webp",
             "projectLink": "/graphic-design",
             "projectType": "",
             "technologies": [
@@ -358,31 +358,31 @@
             "liveDemoLink": "",
             "sampleImages": [
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/lol-all-tournaments.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/lol-all-tournaments.webp",
                     "altText": "Screenshot for Graphic Design 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/lol-inter-school-poster.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/lol-inter-school-poster.webp",
                     "altText": "Screenshot for Graphic Design 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/dota-summer-tournament-poster.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/dota-summer-tournament-poster.webp",
                     "altText": "Screenshot for Graphic Design 3"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/kalye-bbq-social-media-ads.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/kalye-bbq-social-media-ads.webp",
                     "altText": "Screenshot for Graphic Design 4"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/pinnacle-discount-coupon.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/pinnacle-discount-coupon.webp",
                     "altText": "Screenshot for Graphic Design 5"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/730th-block-business-card.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/730th-block-business-card.webp",
                     "altText": "Screenshot for Graphic Design 6"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/north-pacific-flyer.jpg",
+                    "imageLink": "../assets/images/projects/graphic-design/north-pacific-flyer.webp",
                     "altText": "Screenshot for Graphic Design 7"
                 }
             ]

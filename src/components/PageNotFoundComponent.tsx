@@ -1,4 +1,3 @@
-import React from 'react'
 import { Button, Col, Container, Image, Row } from 'react-bootstrap'
 import "../styles/page-not-found.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
@@ -11,7 +10,7 @@ const PageNotFoundComponent = () => {
                 <Row className="center">
                     <Col className="text-center" xl={6} lg={6} md={12}>
                         <Image
-                            src="/assets/images/outer-space.png"
+                            src="/assets/images/outer-space.webp"
                             alt="Image for page not found"
                             className="img-fluid page-not-found-image"
                         />

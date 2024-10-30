@@ -4,7 +4,7 @@ import "../styles/main.css";
 
 const NavbarComponent = () => {
 
-    const navbarIcon = require("../assets/images/code-icon.png")
+    const navbarIcon = require("../assets/images/code-icon.webp")
 
     return (
         <Navbar className="navbar" sticky="top">
