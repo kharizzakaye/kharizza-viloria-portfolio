@@ -9,7 +9,7 @@ const BackButtonComponent = () => {
     <>
         <Button variant="outline-light" href="/" className="back-button">
             <FontAwesomeIcon icon={faArrowLeft} className="button-icon-padding-previous" />
-            Back to Projects
+            Back to Homepage
         </Button>
     </>
   )
