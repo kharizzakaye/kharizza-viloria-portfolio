@@ -20,7 +20,7 @@ const PageNotFoundComponent = () => {
                     <Col className="text-section" xl={6} lg={6} md={12}>
                         <h1 className="page-not-found-title">Are you lost?</h1>
                         <p className="page-not-found-title-text">
-                            The page you are looking for was either removed or updated. 
+                            The page you are looking for no longer exists. 
                             Don't worry, you can still browse my website by clicking the button below.
                         </p>
                         
