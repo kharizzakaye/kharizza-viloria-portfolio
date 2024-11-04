@@ -3,6 +3,7 @@ import NavbarComponent from '../components/NavbarComponent'
 import HeroComponent from '../components/HeroComponent'
 import ExpertiseComponent from '../components/ExpertiseComponent'
 import ProjectsComponent from '../components/ProjectsComponent'
+import AboutMeComponent from '../components/AboutMeComponent'
 
 const Homepage = () => {
   return (
@@ -11,6 +12,7 @@ const Homepage = () => {
       
       <main>
         <HeroComponent />
+        {/* <AboutMeComponent /> */}
         <ExpertiseComponent />
         <ProjectsComponent />
       </main>
