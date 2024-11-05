@@ -10,7 +10,7 @@ const HeroComponent = () => {
     <>
       <section id="hero-section">
         <div className="animate__animated animate__fadeIn text-center hero-section-elements">
-            <h1 className="main-page-title hvr-wobble-vertical">Kharizza Viloria</h1>
+            <h1 className="main-page-title hvr-wobble-vertical">I'm a</h1>
             <br />
             <h2 className="page-not-found-title  hvr-wobble-vertical">Web Developer & Designer</h2>
         </div>
