@@ -12,9 +12,9 @@ const Homepage = () => {
       
       <main>
         <HeroComponent />
-        {/* <AboutMeComponent /> */}
         <ExpertiseComponent />
         <ProjectsComponent />
+        <AboutMeComponent />
       </main>
     </>
   )
