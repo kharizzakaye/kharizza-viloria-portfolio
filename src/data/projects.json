@@ -368,6 +368,16 @@
                         "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-after.jpeg",
                         "altText": "Kids and horse photo after restoration"
                     }
+                },
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-before.jpg",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-after.jpg",
+                        "altText": "Kids and horse photo after restoration"
+                    }
                 }
             ]
         },
