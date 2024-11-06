@@ -361,21 +361,21 @@
             "sampleImages": [
                 {
                     "beforeImage": {
-                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-before.jpg",
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-before.webp",
                         "altText": "Kids and horse photo before restoration"
                     },
                     "afterImage": {
-                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-after.jpeg",
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-after.webp",
                         "altText": "Kids and horse photo after restoration"
                     }
                 },
                 {
                     "beforeImage": {
-                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-before.jpg",
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-before.webp",
                         "altText": "Kids and horse photo before restoration"
                     },
                     "afterImage": {
-                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-after.jpg",
+                        "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-after.webp",
                         "altText": "Kids and horse photo after restoration"
                     }
                 }
@@ -399,11 +399,11 @@
             "sampleImages": [
                 {
                     "beforeImage": {
-                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-before.jpg",
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-before.webp",
                         "altText": "Kids and horse photo before restoration"
                     },
                     "afterImage": {
-                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-after.png",
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-after.webp",
                         "altText": "Kids and horse photo after restoration"
                     }
                 }
