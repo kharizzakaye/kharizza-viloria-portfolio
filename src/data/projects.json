@@ -372,6 +372,34 @@
             ]
         },
         {
+            "title": "Photo Editing",
+            "subtitle": "Various photo manipulation and editing projects",
+            "imageLink": "../assets/images/project-icons/photo-restoration.webp",
+            "projectLink": "/photo-editing",
+            "projectType": "",
+            "technologies": [
+                "Color Correction",
+                "Remove Unwanted Objects"
+
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-before.jpg",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-after.png",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                }
+            ]
+        },
+        {
             "title": "Graphic Design",
             "subtitle": "Various graphic design projects",
             "imageLink": "../assets/images/project-icons/graphic-design.webp",
