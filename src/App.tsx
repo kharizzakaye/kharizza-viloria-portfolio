@@ -17,6 +17,7 @@ import UIComponents from './pages/UIComponents';
 import PetDex from './pages/PetDex';
 import GraphicDesign from './pages/GraphicDesign';
 import PageNotFound from './pages/PageNotFound';
+import PhotoRestoration from './pages/PhotoRestoration';
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
           <Route path={process.env.REACT_APP_URL_UI_COMPONENTS} element={<UIComponents />} />
           <Route path={process.env.REACT_APP_URL_PET_DEX} element={<PetDex />} />
           <Route path={process.env.REACT_APP_URL_GRAPHIC_DESIGN} element={<GraphicDesign />} />
+          <Route path={process.env.REACT_APP_URL_PHOTO_RESTORATION} element={<PhotoRestoration />} />
           <Route path="*" element={<PageNotFound /> } />
         </Routes>
       </Router>

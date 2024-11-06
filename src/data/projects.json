@@ -339,6 +339,39 @@
             ]
         },
         {
+            "title": "Photo Restoration",
+            "subtitle": "Various damaged / old photo restoration projects",
+            "imageLink": "../assets/images/project-icons/photo-restoration.webp",
+            "projectLink": "/photo-restoration",
+            "projectType": "",
+            "technologies": [
+                "Black and White Photo Colorization",
+                "Recreate Missing Pieces",
+                "Fix Faded Photos",
+                "Repair Damaged Photos",
+                "Repair Ripped and Torn Photos",
+                "Old Photo Retouching",
+                "Sharpen Old Photos",
+                "Combine Multiple Old Photos"
+            ],
+            "hasSourceCode": false,
+            "sourceCodeLink": "",
+            "hasLiveDemo": false,
+            "liveDemoLink": "",
+            "sampleImages": [
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-before.jpg",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/kids-and-horse/kids-and-horse-after.jpeg",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                }
+            ]
+        },
+        {
             "title": "Graphic Design",
             "subtitle": "Various graphic design projects",
             "imageLink": "../assets/images/project-icons/graphic-design.webp",
