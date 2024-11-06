@@ -374,7 +374,7 @@
         {
             "title": "Photo Editing",
             "subtitle": "Various photo manipulation and editing projects",
-            "imageLink": "../assets/images/project-icons/photo-restoration.webp",
+            "imageLink": "../assets/images/project-icons/photo-editing.webp",
             "projectLink": "/photo-editing",
             "projectType": "",
             "technologies": [
