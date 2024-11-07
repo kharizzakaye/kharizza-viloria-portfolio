@@ -29,6 +29,10 @@ body
     letter-spacing: 7px;
 }
 
+.white-text {
+    color: #FFFFFF;
+}
+
 /* navbar */
 #navbar-brand-name-1 {
     margin: 0px;
