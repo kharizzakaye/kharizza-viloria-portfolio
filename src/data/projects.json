@@ -37,40 +37,8 @@
                     "altText": "Screenshot for Fizzi 2"
                 },
                 {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-3.webp",
-                    "altText": "Screenshot for Fizzi 3"
-                },
-                {
                     "imageLink": "../assets/images/projects/fizzi/fizzi-4.webp",
                     "altText": "Screenshot for Fizzi 4"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-5.webp",
-                    "altText": "Screenshot for Fizzi 5"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-6.webp",
-                    "altText": "Screenshot for Fizzi 6"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-7.webp",
-                    "altText": "Screenshot for Fizzi 7"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-8.webp",
-                    "altText": "Screenshot for Fizzi 8"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-9.webp",
-                    "altText": "Screenshot for Fizzi 9"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-10.webp",
-                    "altText": "Screenshot for Fizzi 10"
-                },
-                {
-                    "imageLink": "../assets/images/projects/fizzi/fizzi-11.webp",
-                    "altText": "Screenshot for Fizzi 11"
                 }
             ]
         },
@@ -433,14 +401,6 @@
                     "altText": "Screenshot for Graphic Design 1"
                 },
                 {
-                    "imageLink": "../assets/images/projects/graphic-design/lol-inter-school-poster.webp",
-                    "altText": "Screenshot for Graphic Design 2"
-                },
-                {
-                    "imageLink": "../assets/images/projects/graphic-design/dota-summer-tournament-poster.webp",
-                    "altText": "Screenshot for Graphic Design 3"
-                },
-                {
                     "imageLink": "../assets/images/projects/graphic-design/kalye-bbq-social-media-ads.webp",
                     "altText": "Screenshot for Graphic Design 4"
                 },
@@ -451,10 +411,6 @@
                 {
                     "imageLink": "../assets/images/projects/graphic-design/730th-block-business-card.webp",
                     "altText": "Screenshot for Graphic Design 6"
-                },
-                {
-                    "imageLink": "../assets/images/projects/graphic-design/north-pacific-flyer.webp",
-                    "altText": "Screenshot for Graphic Design 7"
                 }
             ]
         }
