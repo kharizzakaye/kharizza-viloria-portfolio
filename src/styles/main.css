@@ -122,6 +122,20 @@ body
     color: #ffffff;
 }
 
+.footer-section {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: #03071E;
+    font-size: 18px;
+    text-align: center;
+}
+
+.footer-icons {
+    height: 45px;
+    color: #ffc600;
+    padding: 0 8px 0 8px;
+}
+
 
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {

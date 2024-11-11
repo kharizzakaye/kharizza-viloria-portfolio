@@ -4,6 +4,7 @@ import HeroComponent from '../components/HeroComponent'
 import ExpertiseComponent from '../components/ExpertiseComponent'
 import ProjectsComponent from '../components/ProjectsComponent'
 import AboutMeComponent from '../components/AboutMeComponent'
+import Footer from '../components/Footer'
 
 const Homepage = () => {
   return (
@@ -15,6 +16,7 @@ const Homepage = () => {
         <ExpertiseComponent />
         <ProjectsComponent />
         <AboutMeComponent />
+        <Footer />
       </main>
     </>
   )
