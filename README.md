@@ -1,46 +1,13 @@
-# Getting Started with Create React App
+# Kharizza's personal portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
+![screencapture-kharizzaviloria-netlify-app-2024-11-12-16_57_04](https://github.com/user-attachments/assets/8e23fb36-f392-4658-a1e4-b99f12d1b233)
 
-### `npm start`
+![screencapture-kharizzaviloria-netlify-app-where-in-the-world-2024-11-12-16_58_09](https://github.com/user-attachments/assets/a4325876-7b15-4fb4-842e-4693a86c25e7)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![screencapture-kharizzaviloria-netlify-app-photo-restoration-2024-11-12-16_57_38](https://github.com/user-attachments/assets/f87851f1-b175-4843-9450-7e2d5f6c650b)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+![screencapture-kharizzaviloria-netlify-app-ui-components-2024-11-12-16_58_44](https://github.com/user-attachments/assets/576d7d8f-b5ea-469d-a664-b1cd31b807b0)
