@@ -21,5 +21,51 @@
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#ffffff",
-  "background_color": "#03071E"
+  "background_color": "#03071E",
+
+  "screenshots": [
+    {
+      "src": "assets/images/richer-install-ui-screenshots/hero-desktop.png",
+      "sizes": "550x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Hero"
+    },
+    {
+      "src": "assets/images/richer-install-ui-screenshots/projects-desktop.png",
+      "sizes": "550x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Projects"
+    },
+    {
+      "src": "assets/images/richer-install-ui-screenshots/fizzi-desktop.png",
+      "sizes": "550x320",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Fizzi project page"
+    },
+    {
+      "src": "assets/images/richer-install-ui-screenshots/hero-mobile.png",
+      "sizes": "320x400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Hero"
+    },
+    {
+      "src": "assets/images/richer-install-ui-screenshots/projects-mobile.png",
+      "sizes": "320x400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Projects"
+    },
+    {
+      "src": "assets/images/richer-install-ui-screenshots/fizzi-mobile.png",
+      "sizes": "320x400",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Fizzi project page"
+    }
+  ],
+  "description": "Explore the portfolio of Khariza Viloria, a skilled web developer and graphic designer. Discover her innovative projects, clean designs, and creative solutions that showcase her expertise and dedication to excellence in design and software development."
 }
