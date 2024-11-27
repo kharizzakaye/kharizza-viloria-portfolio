@@ -14,4 +14,4 @@ root.render(
 );
 
 // Register the service worker 
-serviceWorker.register();
+// serviceWorker.register();
