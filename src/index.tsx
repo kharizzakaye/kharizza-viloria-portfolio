@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
-import * as serviceWorker from './service-worker';
+// import * as serviceWorker from './service-worker';
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
@@ -14,4 +14,4 @@ root.render(
 );
 
 // Register the service worker 
-serviceWorker.register();
+// serviceWorker.register();
