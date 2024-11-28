@@ -373,14 +373,24 @@
             "projectType": "",
             "technologies": [
                 "Color Correction",
-                "Remove Unwanted Objects"
-
+                "Remove Unwanted Objects",
+                "Change Image Background"
             ],
             "hasSourceCode": false,
             "sourceCodeLink": "",
             "hasLiveDemo": false,
             "liveDemoLink": "",
             "sampleImages": [
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/family-at-beach/family-at-beach-before.webp",
+                        "altText": "Kids and horse photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-editing/family-at-beach/family-at-beach-after.webp",
+                        "altText": "Kids and horse photo after restoration"
+                    }
+                },
                 {
                     "beforeImage": {
                         "imageLink": "/assets/images/projects/photo-editing/mountain/mountain-before.webp",
