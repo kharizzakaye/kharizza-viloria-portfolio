@@ -362,6 +362,16 @@
                         "imageLink": "/assets/images/projects/photo-restoration/lady-portrait/lady-portrait-after.webp",
                         "altText": "Kids and horse photo after restoration"
                     }
+                },
+                {
+                    "beforeImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/father-and-daughter-at-beach/father-and-daughter-at-beach-before.webp",
+                        "altText": "Father and daughter beach photo before restoration"
+                    },
+                    "afterImage": {
+                        "imageLink": "/assets/images/projects/photo-restoration/father-and-daughter-at-beach/father-and-daughter-at-beach-after.webp",
+                        "altText": "Father and daughter beach photo after restoration"
+                    }
                 }
             ]
         },
