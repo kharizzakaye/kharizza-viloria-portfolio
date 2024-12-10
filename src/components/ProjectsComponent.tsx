@@ -1,6 +1,5 @@
 import Card from 'react-bootstrap/Card';
 import { Row, Col, Container } from 'react-bootstrap';
-import { motion } from 'framer-motion';
 
 import "../styles/main.css";
 import "../styles/hover.css";
@@ -9,12 +8,6 @@ import AnimatedElement from './AnimatedElement';
 
 
 const ProjectsComponent = () => {
-
-    // Define the animation variants
-    const variants = {
-        hidden: { opacity: 0 },
-        visible: { opacity: 1 }
-    };
 
     const projectsList = projectsData.data.map((item: any) => ({
         title: item.title,
@@ -50,8 +43,6 @@ const ProjectsComponent = () => {
                                 
                             </Col>
                         ))}
-
-                    
 
                     </Row>
                 </Container>
