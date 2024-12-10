@@ -126,8 +126,11 @@ body
     padding-top: 30px;
     padding-bottom: 30px;
     background-color: #03071E;
-    font-size: 18px;
+    font-size: 20px;
     text-align: center;
+    color: #ffc600;
+    font-family: winnie-font, Helvetica, sans-serif;
+    letter-spacing: 3px;
 }
 
 .footer-icons {
