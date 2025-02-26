@@ -18,6 +18,7 @@ import GraphicDesign from './pages/GraphicDesign';
 import PageNotFound from './pages/PageNotFound';
 import PhotoRestoration from './pages/PhotoRestoration';
 import PhotoEditing from './pages/PhotoEditing';
+import PersonalPortfolio from './pages/PersonalPortfolio';
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           <Route path={process.env.REACT_APP_URL_GRAPHIC_DESIGN} element={<GraphicDesign />} />
           <Route path={process.env.REACT_APP_URL_PHOTO_RESTORATION} element={<PhotoRestoration />} />
           <Route path={process.env.REACT_APP_URL_PHOTO_EDITING} element={<PhotoEditing />} />
+          <Route path={process.env.REACT_APP_URL_PERSONAL_PORTFOLIO} element={<PersonalPortfolio />} />
           <Route path="*" element={<PageNotFound /> } />
         </Routes>
       </Router>

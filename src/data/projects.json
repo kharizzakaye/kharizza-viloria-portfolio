@@ -43,6 +43,47 @@
             ]
         },
         {
+            "title": "Personal Portfolio Website",
+            "subtitle": "Portfolio",
+            "imageLink": "../assets/images/project-icons/personal-portfolio.webp",
+            "projectLink": "/personal-portfolio",
+            "projectType": "",
+            "technologies": [
+                "React",
+                "React Router",
+                "Typescript",
+                "React Bootstrap",
+                "Framer Motion",
+                "Richer Install UI",
+                "Git",
+                "GitHub",
+                "JSON",
+                "Animate CSS",
+                "Netlify",
+                "CI/CD",
+                "Google Analytics",
+                "Google Tag Manager",
+                "Progressive Web Application (PWA)",
+                "Mobile-First Design",
+                "Responsive Web Design",
+                "Search Engine Optimization (SEO)"
+            ],
+            "hasSourceCode": true,
+            "sourceCodeLink": "https://github.com/kharizzakaye/kharizza-viloria-portfolio",
+            "hasLiveDemo": true,
+            "liveDemoLink": "https://kharizzaviloria.netlify.app/",
+            "sampleImages": [
+                {
+                    "imageLink": "../assets/images/projects/personal-portfolio/personal-portfolio-1.webp",
+                    "altText": "Screenshot for Personal Portfolio 1"
+                },
+                {
+                    "imageLink": "../assets/images/projects/personal-portfolio/personal-portfolio-2.webp",
+                    "altText": "Screenshot for Personal Portfolio 2"
+                }
+            ]
+        },
+        {
             "title": "Desserts Shop",
             "subtitle": "Desserts Shop - Add to Cart Page",
             "imageLink": "../assets/images/project-icons/dessert-shop.webp",
